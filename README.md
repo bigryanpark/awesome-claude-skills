@@ -192,6 +192,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Productivity & Organization
 
+- [add-flareup](https://github.com/bigryanpark/add-flareup) - Gets you unstuck when you can't start, stay on, or finish a task: reads what you've been working on, asks 1 to 3 tap-to-answer questions, and hands you one physical next step. Built for founders with ADD and ADHD, with modes for brain dumps, body doubling, time estimates, task switching, and perfectionism. *By [@bigryanpark](https://github.com/bigryanpark)*
 - [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 - [Invoice Organizer](./invoice-organizer/) - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 - [kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen/skills/kaizen) - Applies continuous improvement methodology with multiple analytical approaches, based on Japanese Kaizen philosophy and Lean methodology.
